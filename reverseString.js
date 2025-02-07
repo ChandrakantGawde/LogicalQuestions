@@ -14,7 +14,7 @@ function StrRev(str){
     //    length--; // reduce length
     // }
 
-
+  
     // convert string using charactor array split method 
     let charArray = str.split('');
     var length = charArray.length;
